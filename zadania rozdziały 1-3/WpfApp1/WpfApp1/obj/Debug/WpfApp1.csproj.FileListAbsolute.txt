@@ -1,0 +1,16 @@
+D:\Github\Praktyki\Praktyki\zadanie1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Github\Praktyki\Praktyki\zadanie1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\Github\Praktyki\Praktyki\zadanie1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Github\Praktyki\Praktyki\zadanie1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Github\Praktyki\Praktyki\zadanie1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Github\Praktyki\Praktyki\zadanie1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Github\Praktyki\Praktyki\zadanie1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Github\Praktyki\Praktyki\zadanie1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Github\Praktyki\Praktyki\zadanie1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Github\Praktyki\Praktyki\zadanie1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Github\Praktyki\Praktyki\zadanie1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Github\Praktyki\Praktyki\zadanie1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Github\Praktyki\Praktyki\zadanie1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Github\Praktyki\Praktyki\zadanie1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Github\Praktyki\Praktyki\zadanie1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Github\Praktyki\Praktyki\zadanie1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

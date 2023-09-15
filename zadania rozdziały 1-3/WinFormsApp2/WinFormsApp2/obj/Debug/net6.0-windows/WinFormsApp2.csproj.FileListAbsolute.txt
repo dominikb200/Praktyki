@@ -1,0 +1,17 @@
+D:\Github\Praktyki\Praktyki\zadanie1\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+D:\Github\Praktyki\Praktyki\zadanie1\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+D:\Github\Praktyki\Praktyki\zadanie1\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+D:\Github\Praktyki\Praktyki\zadanie1\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+D:\Github\Praktyki\Praktyki\zadanie1\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+D:\Github\Praktyki\Praktyki\zadanie1\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+D:\Github\Praktyki\Praktyki\zadanie1\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+D:\Github\Praktyki\Praktyki\zadanie1\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+D:\Github\Praktyki\Praktyki\zadanie1\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Praktyki\Praktyki\zadanie1\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+D:\Github\Praktyki\Praktyki\zadanie1\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+D:\Github\Praktyki\Praktyki\zadanie1\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\Github\Praktyki\Praktyki\zadanie1\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+D:\Github\Praktyki\Praktyki\zadanie1\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+D:\Github\Praktyki\Praktyki\zadanie1\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+D:\Github\Praktyki\Praktyki\zadanie1\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+D:\Github\Praktyki\Praktyki\zadanie1\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
