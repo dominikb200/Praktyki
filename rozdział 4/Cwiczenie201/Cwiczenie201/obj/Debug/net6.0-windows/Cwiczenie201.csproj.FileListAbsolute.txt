@@ -1,0 +1,17 @@
+D:\Github\Praktyki\Praktyki\rozdział 4\Cwiczenie201\Cwiczenie201\bin\Debug\net6.0-windows\Cwiczenie201.exe
+D:\Github\Praktyki\Praktyki\rozdział 4\Cwiczenie201\Cwiczenie201\bin\Debug\net6.0-windows\Cwiczenie201.deps.json
+D:\Github\Praktyki\Praktyki\rozdział 4\Cwiczenie201\Cwiczenie201\bin\Debug\net6.0-windows\Cwiczenie201.runtimeconfig.json
+D:\Github\Praktyki\Praktyki\rozdział 4\Cwiczenie201\Cwiczenie201\bin\Debug\net6.0-windows\Cwiczenie201.dll
+D:\Github\Praktyki\Praktyki\rozdział 4\Cwiczenie201\Cwiczenie201\bin\Debug\net6.0-windows\Cwiczenie201.pdb
+D:\Github\Praktyki\Praktyki\rozdział 4\Cwiczenie201\Cwiczenie201\obj\Debug\net6.0-windows\Cwiczenie201.csproj.AssemblyReference.cache
+D:\Github\Praktyki\Praktyki\rozdział 4\Cwiczenie201\Cwiczenie201\obj\Debug\net6.0-windows\Cwiczenie201.Form1.resources
+D:\Github\Praktyki\Praktyki\rozdział 4\Cwiczenie201\Cwiczenie201\obj\Debug\net6.0-windows\Cwiczenie201.csproj.GenerateResource.cache
+D:\Github\Praktyki\Praktyki\rozdział 4\Cwiczenie201\Cwiczenie201\obj\Debug\net6.0-windows\Cwiczenie201.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Praktyki\Praktyki\rozdział 4\Cwiczenie201\Cwiczenie201\obj\Debug\net6.0-windows\Cwiczenie201.AssemblyInfoInputs.cache
+D:\Github\Praktyki\Praktyki\rozdział 4\Cwiczenie201\Cwiczenie201\obj\Debug\net6.0-windows\Cwiczenie201.AssemblyInfo.cs
+D:\Github\Praktyki\Praktyki\rozdział 4\Cwiczenie201\Cwiczenie201\obj\Debug\net6.0-windows\Cwiczenie201.csproj.CoreCompileInputs.cache
+D:\Github\Praktyki\Praktyki\rozdział 4\Cwiczenie201\Cwiczenie201\obj\Debug\net6.0-windows\Cwiczenie201.dll
+D:\Github\Praktyki\Praktyki\rozdział 4\Cwiczenie201\Cwiczenie201\obj\Debug\net6.0-windows\refint\Cwiczenie201.dll
+D:\Github\Praktyki\Praktyki\rozdział 4\Cwiczenie201\Cwiczenie201\obj\Debug\net6.0-windows\Cwiczenie201.pdb
+D:\Github\Praktyki\Praktyki\rozdział 4\Cwiczenie201\Cwiczenie201\obj\Debug\net6.0-windows\Cwiczenie201.genruntimeconfig.cache
+D:\Github\Praktyki\Praktyki\rozdział 4\Cwiczenie201\Cwiczenie201\obj\Debug\net6.0-windows\ref\Cwiczenie201.dll

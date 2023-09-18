@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cwiczenie201/1.0.0": {
+        "runtime": {
+          "Cwiczenie201.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cwiczenie201/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\GitHub\praktyki\praktyki\rozdział 4\LabDzienNaWyscigach225\LabDzienNaWyscigach225\obj\Debug\net6.0-windows\LabDzienNaWyscigach225.Form1.resources
+D:\GitHub\praktyki\praktyki\rozdział 4\LabDzienNaWyscigach225\LabDzienNaWyscigach225\obj\Debug\net6.0-windows\LabDzienNaWyscigach225.Properties.Resources.resources
+D:\GitHub\praktyki\praktyki\rozdział 4\LabDzienNaWyscigach225\LabDzienNaWyscigach225\obj\Debug\net6.0-windows\LabDzienNaWyscigach225.csproj.GenerateResource.cache
+D:\GitHub\praktyki\praktyki\rozdział 4\LabDzienNaWyscigach225\LabDzienNaWyscigach225\obj\Debug\net6.0-windows\LabDzienNaWyscigach225.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\praktyki\praktyki\rozdział 4\LabDzienNaWyscigach225\LabDzienNaWyscigach225\obj\Debug\net6.0-windows\LabDzienNaWyscigach225.AssemblyInfoInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 4\LabDzienNaWyscigach225\LabDzienNaWyscigach225\obj\Debug\net6.0-windows\LabDzienNaWyscigach225.AssemblyInfo.cs
+D:\GitHub\praktyki\praktyki\rozdział 4\LabDzienNaWyscigach225\LabDzienNaWyscigach225\obj\Debug\net6.0-windows\LabDzienNaWyscigach225.csproj.CoreCompileInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 4\LabDzienNaWyscigach225\LabDzienNaWyscigach225\bin\Debug\net6.0-windows\LabDzienNaWyscigach225.exe
+D:\GitHub\praktyki\praktyki\rozdział 4\LabDzienNaWyscigach225\LabDzienNaWyscigach225\bin\Debug\net6.0-windows\LabDzienNaWyscigach225.deps.json
+D:\GitHub\praktyki\praktyki\rozdział 4\LabDzienNaWyscigach225\LabDzienNaWyscigach225\bin\Debug\net6.0-windows\LabDzienNaWyscigach225.runtimeconfig.json
+D:\GitHub\praktyki\praktyki\rozdział 4\LabDzienNaWyscigach225\LabDzienNaWyscigach225\bin\Debug\net6.0-windows\LabDzienNaWyscigach225.dll
+D:\GitHub\praktyki\praktyki\rozdział 4\LabDzienNaWyscigach225\LabDzienNaWyscigach225\bin\Debug\net6.0-windows\LabDzienNaWyscigach225.pdb
+D:\GitHub\praktyki\praktyki\rozdział 4\LabDzienNaWyscigach225\LabDzienNaWyscigach225\obj\Debug\net6.0-windows\LabDzienNaWyscigach225.dll
+D:\GitHub\praktyki\praktyki\rozdział 4\LabDzienNaWyscigach225\LabDzienNaWyscigach225\obj\Debug\net6.0-windows\refint\LabDzienNaWyscigach225.dll
+D:\GitHub\praktyki\praktyki\rozdział 4\LabDzienNaWyscigach225\LabDzienNaWyscigach225\obj\Debug\net6.0-windows\LabDzienNaWyscigach225.pdb
+D:\GitHub\praktyki\praktyki\rozdział 4\LabDzienNaWyscigach225\LabDzienNaWyscigach225\obj\Debug\net6.0-windows\LabDzienNaWyscigach225.genruntimeconfig.cache
+D:\GitHub\praktyki\praktyki\rozdział 4\LabDzienNaWyscigach225\LabDzienNaWyscigach225\obj\Debug\net6.0-windows\ref\LabDzienNaWyscigach225.dll
