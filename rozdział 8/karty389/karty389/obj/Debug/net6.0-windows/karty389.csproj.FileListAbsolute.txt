@@ -1,0 +1,16 @@
+D:\GitHub\praktyki\praktyki\rozdział 7\karty389\karty389\bin\Debug\net6.0-windows\karty389.exe
+D:\GitHub\praktyki\praktyki\rozdział 7\karty389\karty389\bin\Debug\net6.0-windows\karty389.deps.json
+D:\GitHub\praktyki\praktyki\rozdział 7\karty389\karty389\bin\Debug\net6.0-windows\karty389.runtimeconfig.json
+D:\GitHub\praktyki\praktyki\rozdział 7\karty389\karty389\bin\Debug\net6.0-windows\karty389.dll
+D:\GitHub\praktyki\praktyki\rozdział 7\karty389\karty389\bin\Debug\net6.0-windows\karty389.pdb
+D:\GitHub\praktyki\praktyki\rozdział 7\karty389\karty389\obj\Debug\net6.0-windows\karty389.Form1.resources
+D:\GitHub\praktyki\praktyki\rozdział 7\karty389\karty389\obj\Debug\net6.0-windows\karty389.csproj.GenerateResource.cache
+D:\GitHub\praktyki\praktyki\rozdział 7\karty389\karty389\obj\Debug\net6.0-windows\karty389.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\praktyki\praktyki\rozdział 7\karty389\karty389\obj\Debug\net6.0-windows\karty389.AssemblyInfoInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 7\karty389\karty389\obj\Debug\net6.0-windows\karty389.AssemblyInfo.cs
+D:\GitHub\praktyki\praktyki\rozdział 7\karty389\karty389\obj\Debug\net6.0-windows\karty389.csproj.CoreCompileInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 7\karty389\karty389\obj\Debug\net6.0-windows\karty389.dll
+D:\GitHub\praktyki\praktyki\rozdział 7\karty389\karty389\obj\Debug\net6.0-windows\refint\karty389.dll
+D:\GitHub\praktyki\praktyki\rozdział 7\karty389\karty389\obj\Debug\net6.0-windows\karty389.pdb
+D:\GitHub\praktyki\praktyki\rozdział 7\karty389\karty389\obj\Debug\net6.0-windows\karty389.genruntimeconfig.cache
+D:\GitHub\praktyki\praktyki\rozdział 7\karty389\karty389\obj\Debug\net6.0-windows\ref\karty389.dll

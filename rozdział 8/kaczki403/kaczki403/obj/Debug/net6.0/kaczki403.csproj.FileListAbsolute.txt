@@ -1,0 +1,14 @@
+D:\GitHub\praktyki\praktyki\rozdział 8\kaczki403\kaczki403\bin\Debug\net6.0\kaczki403.exe
+D:\GitHub\praktyki\praktyki\rozdział 8\kaczki403\kaczki403\bin\Debug\net6.0\kaczki403.deps.json
+D:\GitHub\praktyki\praktyki\rozdział 8\kaczki403\kaczki403\bin\Debug\net6.0\kaczki403.runtimeconfig.json
+D:\GitHub\praktyki\praktyki\rozdział 8\kaczki403\kaczki403\bin\Debug\net6.0\kaczki403.dll
+D:\GitHub\praktyki\praktyki\rozdział 8\kaczki403\kaczki403\bin\Debug\net6.0\kaczki403.pdb
+D:\GitHub\praktyki\praktyki\rozdział 8\kaczki403\kaczki403\obj\Debug\net6.0\kaczki403.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\praktyki\praktyki\rozdział 8\kaczki403\kaczki403\obj\Debug\net6.0\kaczki403.AssemblyInfoInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 8\kaczki403\kaczki403\obj\Debug\net6.0\kaczki403.AssemblyInfo.cs
+D:\GitHub\praktyki\praktyki\rozdział 8\kaczki403\kaczki403\obj\Debug\net6.0\kaczki403.csproj.CoreCompileInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 8\kaczki403\kaczki403\obj\Debug\net6.0\kaczki403.dll
+D:\GitHub\praktyki\praktyki\rozdział 8\kaczki403\kaczki403\obj\Debug\net6.0\refint\kaczki403.dll
+D:\GitHub\praktyki\praktyki\rozdział 8\kaczki403\kaczki403\obj\Debug\net6.0\kaczki403.pdb
+D:\GitHub\praktyki\praktyki\rozdział 8\kaczki403\kaczki403\obj\Debug\net6.0\kaczki403.genruntimeconfig.cache
+D:\GitHub\praktyki\praktyki\rozdział 8\kaczki403\kaczki403\obj\Debug\net6.0\ref\kaczki403.dll
