@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace karty389
+namespace dwieTalie418
 {
     enum Suits
     {
