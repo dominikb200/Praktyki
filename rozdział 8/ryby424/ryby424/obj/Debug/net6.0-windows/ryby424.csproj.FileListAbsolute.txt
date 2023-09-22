@@ -1,0 +1,16 @@
+D:\GitHub\praktyki\praktyki\rozdział 8\ryby424\ryby424\bin\Debug\net6.0-windows\ryby424.exe
+D:\GitHub\praktyki\praktyki\rozdział 8\ryby424\ryby424\bin\Debug\net6.0-windows\ryby424.deps.json
+D:\GitHub\praktyki\praktyki\rozdział 8\ryby424\ryby424\bin\Debug\net6.0-windows\ryby424.runtimeconfig.json
+D:\GitHub\praktyki\praktyki\rozdział 8\ryby424\ryby424\bin\Debug\net6.0-windows\ryby424.dll
+D:\GitHub\praktyki\praktyki\rozdział 8\ryby424\ryby424\bin\Debug\net6.0-windows\ryby424.pdb
+D:\GitHub\praktyki\praktyki\rozdział 8\ryby424\ryby424\obj\Debug\net6.0-windows\ryby424.Form1.resources
+D:\GitHub\praktyki\praktyki\rozdział 8\ryby424\ryby424\obj\Debug\net6.0-windows\ryby424.csproj.GenerateResource.cache
+D:\GitHub\praktyki\praktyki\rozdział 8\ryby424\ryby424\obj\Debug\net6.0-windows\ryby424.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\praktyki\praktyki\rozdział 8\ryby424\ryby424\obj\Debug\net6.0-windows\ryby424.AssemblyInfoInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 8\ryby424\ryby424\obj\Debug\net6.0-windows\ryby424.AssemblyInfo.cs
+D:\GitHub\praktyki\praktyki\rozdział 8\ryby424\ryby424\obj\Debug\net6.0-windows\ryby424.csproj.CoreCompileInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 8\ryby424\ryby424\obj\Debug\net6.0-windows\ryby424.dll
+D:\GitHub\praktyki\praktyki\rozdział 8\ryby424\ryby424\obj\Debug\net6.0-windows\refint\ryby424.dll
+D:\GitHub\praktyki\praktyki\rozdział 8\ryby424\ryby424\obj\Debug\net6.0-windows\ryby424.pdb
+D:\GitHub\praktyki\praktyki\rozdział 8\ryby424\ryby424\obj\Debug\net6.0-windows\ryby424.genruntimeconfig.cache
+D:\GitHub\praktyki\praktyki\rozdział 8\ryby424\ryby424\obj\Debug\net6.0-windows\ref\ryby424.dll

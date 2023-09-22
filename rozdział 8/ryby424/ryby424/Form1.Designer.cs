@@ -91,6 +91,7 @@
             buttonStart.TabIndex = 5;
             buttonStart.Text = "Rozpocznij grę!";
             buttonStart.UseVisualStyleBackColor = true;
+            buttonStart.Click += buttonStart_Click;
             // 
             // buttonAsk
             // 
@@ -100,6 +101,7 @@
             buttonAsk.TabIndex = 6;
             buttonAsk.Text = "Zażądaj karty";
             buttonAsk.UseVisualStyleBackColor = true;
+            buttonAsk.Click += buttonAsk_Click;
             // 
             // textProgress
             // 
