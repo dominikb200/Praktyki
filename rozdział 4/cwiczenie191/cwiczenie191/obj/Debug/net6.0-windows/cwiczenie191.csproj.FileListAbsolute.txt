@@ -1,0 +1,17 @@
+D:\Github\Praktyki\Praktyki\rozdział 4\cwiczenie191\cwiczenie191\bin\Debug\net6.0-windows\cwiczenie191.exe
+D:\Github\Praktyki\Praktyki\rozdział 4\cwiczenie191\cwiczenie191\bin\Debug\net6.0-windows\cwiczenie191.deps.json
+D:\Github\Praktyki\Praktyki\rozdział 4\cwiczenie191\cwiczenie191\bin\Debug\net6.0-windows\cwiczenie191.runtimeconfig.json
+D:\Github\Praktyki\Praktyki\rozdział 4\cwiczenie191\cwiczenie191\bin\Debug\net6.0-windows\cwiczenie191.dll
+D:\Github\Praktyki\Praktyki\rozdział 4\cwiczenie191\cwiczenie191\bin\Debug\net6.0-windows\cwiczenie191.pdb
+D:\Github\Praktyki\Praktyki\rozdział 4\cwiczenie191\cwiczenie191\obj\Debug\net6.0-windows\cwiczenie191.csproj.AssemblyReference.cache
+D:\Github\Praktyki\Praktyki\rozdział 4\cwiczenie191\cwiczenie191\obj\Debug\net6.0-windows\cwiczenie191.Form1.resources
+D:\Github\Praktyki\Praktyki\rozdział 4\cwiczenie191\cwiczenie191\obj\Debug\net6.0-windows\cwiczenie191.csproj.GenerateResource.cache
+D:\Github\Praktyki\Praktyki\rozdział 4\cwiczenie191\cwiczenie191\obj\Debug\net6.0-windows\cwiczenie191.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Praktyki\Praktyki\rozdział 4\cwiczenie191\cwiczenie191\obj\Debug\net6.0-windows\cwiczenie191.AssemblyInfoInputs.cache
+D:\Github\Praktyki\Praktyki\rozdział 4\cwiczenie191\cwiczenie191\obj\Debug\net6.0-windows\cwiczenie191.AssemblyInfo.cs
+D:\Github\Praktyki\Praktyki\rozdział 4\cwiczenie191\cwiczenie191\obj\Debug\net6.0-windows\cwiczenie191.csproj.CoreCompileInputs.cache
+D:\Github\Praktyki\Praktyki\rozdział 4\cwiczenie191\cwiczenie191\obj\Debug\net6.0-windows\cwiczenie191.dll
+D:\Github\Praktyki\Praktyki\rozdział 4\cwiczenie191\cwiczenie191\obj\Debug\net6.0-windows\refint\cwiczenie191.dll
+D:\Github\Praktyki\Praktyki\rozdział 4\cwiczenie191\cwiczenie191\obj\Debug\net6.0-windows\cwiczenie191.pdb
+D:\Github\Praktyki\Praktyki\rozdział 4\cwiczenie191\cwiczenie191\obj\Debug\net6.0-windows\cwiczenie191.genruntimeconfig.cache
+D:\Github\Praktyki\Praktyki\rozdział 4\cwiczenie191\cwiczenie191\obj\Debug\net6.0-windows\ref\cwiczenie191.dll

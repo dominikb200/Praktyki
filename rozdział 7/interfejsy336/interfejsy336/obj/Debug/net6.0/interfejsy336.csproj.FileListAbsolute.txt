@@ -1,0 +1,14 @@
+D:\GitHub\praktyki\praktyki\rozdział 7\interfejsy336\interfejsy336\bin\Debug\net6.0\interfejsy336.exe
+D:\GitHub\praktyki\praktyki\rozdział 7\interfejsy336\interfejsy336\bin\Debug\net6.0\interfejsy336.deps.json
+D:\GitHub\praktyki\praktyki\rozdział 7\interfejsy336\interfejsy336\bin\Debug\net6.0\interfejsy336.runtimeconfig.json
+D:\GitHub\praktyki\praktyki\rozdział 7\interfejsy336\interfejsy336\bin\Debug\net6.0\interfejsy336.dll
+D:\GitHub\praktyki\praktyki\rozdział 7\interfejsy336\interfejsy336\bin\Debug\net6.0\interfejsy336.pdb
+D:\GitHub\praktyki\praktyki\rozdział 7\interfejsy336\interfejsy336\obj\Debug\net6.0\interfejsy336.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\praktyki\praktyki\rozdział 7\interfejsy336\interfejsy336\obj\Debug\net6.0\interfejsy336.AssemblyInfoInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 7\interfejsy336\interfejsy336\obj\Debug\net6.0\interfejsy336.AssemblyInfo.cs
+D:\GitHub\praktyki\praktyki\rozdział 7\interfejsy336\interfejsy336\obj\Debug\net6.0\interfejsy336.csproj.CoreCompileInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 7\interfejsy336\interfejsy336\obj\Debug\net6.0\interfejsy336.dll
+D:\GitHub\praktyki\praktyki\rozdział 7\interfejsy336\interfejsy336\obj\Debug\net6.0\refint\interfejsy336.dll
+D:\GitHub\praktyki\praktyki\rozdział 7\interfejsy336\interfejsy336\obj\Debug\net6.0\interfejsy336.pdb
+D:\GitHub\praktyki\praktyki\rozdział 7\interfejsy336\interfejsy336\obj\Debug\net6.0\interfejsy336.genruntimeconfig.cache
+D:\GitHub\praktyki\praktyki\rozdział 7\interfejsy336\interfejsy336\obj\Debug\net6.0\ref\interfejsy336.dll

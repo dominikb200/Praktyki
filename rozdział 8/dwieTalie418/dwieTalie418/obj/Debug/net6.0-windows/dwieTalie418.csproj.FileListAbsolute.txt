@@ -1,0 +1,16 @@
+D:\GitHub\praktyki\praktyki\rozdział 8\dwieTalie418\dwieTalie418\obj\Debug\net6.0-windows\dwieTalie418.Form1.resources
+D:\GitHub\praktyki\praktyki\rozdział 8\dwieTalie418\dwieTalie418\obj\Debug\net6.0-windows\dwieTalie418.csproj.GenerateResource.cache
+D:\GitHub\praktyki\praktyki\rozdział 8\dwieTalie418\dwieTalie418\obj\Debug\net6.0-windows\dwieTalie418.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\praktyki\praktyki\rozdział 8\dwieTalie418\dwieTalie418\obj\Debug\net6.0-windows\dwieTalie418.AssemblyInfoInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 8\dwieTalie418\dwieTalie418\obj\Debug\net6.0-windows\dwieTalie418.AssemblyInfo.cs
+D:\GitHub\praktyki\praktyki\rozdział 8\dwieTalie418\dwieTalie418\obj\Debug\net6.0-windows\dwieTalie418.csproj.CoreCompileInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 8\dwieTalie418\dwieTalie418\bin\Debug\net6.0-windows\dwieTalie418.exe
+D:\GitHub\praktyki\praktyki\rozdział 8\dwieTalie418\dwieTalie418\bin\Debug\net6.0-windows\dwieTalie418.deps.json
+D:\GitHub\praktyki\praktyki\rozdział 8\dwieTalie418\dwieTalie418\bin\Debug\net6.0-windows\dwieTalie418.runtimeconfig.json
+D:\GitHub\praktyki\praktyki\rozdział 8\dwieTalie418\dwieTalie418\bin\Debug\net6.0-windows\dwieTalie418.dll
+D:\GitHub\praktyki\praktyki\rozdział 8\dwieTalie418\dwieTalie418\bin\Debug\net6.0-windows\dwieTalie418.pdb
+D:\GitHub\praktyki\praktyki\rozdział 8\dwieTalie418\dwieTalie418\obj\Debug\net6.0-windows\dwieTalie418.dll
+D:\GitHub\praktyki\praktyki\rozdział 8\dwieTalie418\dwieTalie418\obj\Debug\net6.0-windows\refint\dwieTalie418.dll
+D:\GitHub\praktyki\praktyki\rozdział 8\dwieTalie418\dwieTalie418\obj\Debug\net6.0-windows\dwieTalie418.pdb
+D:\GitHub\praktyki\praktyki\rozdział 8\dwieTalie418\dwieTalie418\obj\Debug\net6.0-windows\dwieTalie418.genruntimeconfig.cache
+D:\GitHub\praktyki\praktyki\rozdział 8\dwieTalie418\dwieTalie418\obj\Debug\net6.0-windows\ref\dwieTalie418.dll

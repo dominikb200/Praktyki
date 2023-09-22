@@ -1,0 +1,16 @@
+D:\GitHub\praktyki\praktyki\rozdział 4\gra215\gra215\obj\Debug\net6.0-windows\gra215.Form1.resources
+D:\GitHub\praktyki\praktyki\rozdział 4\gra215\gra215\obj\Debug\net6.0-windows\gra215.csproj.GenerateResource.cache
+D:\GitHub\praktyki\praktyki\rozdział 4\gra215\gra215\obj\Debug\net6.0-windows\gra215.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\praktyki\praktyki\rozdział 4\gra215\gra215\obj\Debug\net6.0-windows\gra215.AssemblyInfoInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 4\gra215\gra215\obj\Debug\net6.0-windows\gra215.AssemblyInfo.cs
+D:\GitHub\praktyki\praktyki\rozdział 4\gra215\gra215\obj\Debug\net6.0-windows\gra215.csproj.CoreCompileInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 4\gra215\gra215\bin\Debug\net6.0-windows\gra215.exe
+D:\GitHub\praktyki\praktyki\rozdział 4\gra215\gra215\bin\Debug\net6.0-windows\gra215.deps.json
+D:\GitHub\praktyki\praktyki\rozdział 4\gra215\gra215\bin\Debug\net6.0-windows\gra215.runtimeconfig.json
+D:\GitHub\praktyki\praktyki\rozdział 4\gra215\gra215\bin\Debug\net6.0-windows\gra215.dll
+D:\GitHub\praktyki\praktyki\rozdział 4\gra215\gra215\bin\Debug\net6.0-windows\gra215.pdb
+D:\GitHub\praktyki\praktyki\rozdział 4\gra215\gra215\obj\Debug\net6.0-windows\gra215.dll
+D:\GitHub\praktyki\praktyki\rozdział 4\gra215\gra215\obj\Debug\net6.0-windows\refint\gra215.dll
+D:\GitHub\praktyki\praktyki\rozdział 4\gra215\gra215\obj\Debug\net6.0-windows\gra215.pdb
+D:\GitHub\praktyki\praktyki\rozdział 4\gra215\gra215\obj\Debug\net6.0-windows\gra215.genruntimeconfig.cache
+D:\GitHub\praktyki\praktyki\rozdział 4\gra215\gra215\obj\Debug\net6.0-windows\ref\gra215.dll

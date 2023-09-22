@@ -1,0 +1,14 @@
+D:\GitHub\praktyki\praktyki\rozdział 6\Klasy304\Klasy304\bin\Debug\net6.0\Klasy304.exe
+D:\GitHub\praktyki\praktyki\rozdział 6\Klasy304\Klasy304\bin\Debug\net6.0\Klasy304.deps.json
+D:\GitHub\praktyki\praktyki\rozdział 6\Klasy304\Klasy304\bin\Debug\net6.0\Klasy304.runtimeconfig.json
+D:\GitHub\praktyki\praktyki\rozdział 6\Klasy304\Klasy304\bin\Debug\net6.0\Klasy304.dll
+D:\GitHub\praktyki\praktyki\rozdział 6\Klasy304\Klasy304\bin\Debug\net6.0\Klasy304.pdb
+D:\GitHub\praktyki\praktyki\rozdział 6\Klasy304\Klasy304\obj\Debug\net6.0\Klasy304.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\praktyki\praktyki\rozdział 6\Klasy304\Klasy304\obj\Debug\net6.0\Klasy304.AssemblyInfoInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 6\Klasy304\Klasy304\obj\Debug\net6.0\Klasy304.AssemblyInfo.cs
+D:\GitHub\praktyki\praktyki\rozdział 6\Klasy304\Klasy304\obj\Debug\net6.0\Klasy304.csproj.CoreCompileInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 6\Klasy304\Klasy304\obj\Debug\net6.0\Klasy304.dll
+D:\GitHub\praktyki\praktyki\rozdział 6\Klasy304\Klasy304\obj\Debug\net6.0\refint\Klasy304.dll
+D:\GitHub\praktyki\praktyki\rozdział 6\Klasy304\Klasy304\obj\Debug\net6.0\Klasy304.pdb
+D:\GitHub\praktyki\praktyki\rozdział 6\Klasy304\Klasy304\obj\Debug\net6.0\Klasy304.genruntimeconfig.cache
+D:\GitHub\praktyki\praktyki\rozdział 6\Klasy304\Klasy304\obj\Debug\net6.0\ref\Klasy304.dll

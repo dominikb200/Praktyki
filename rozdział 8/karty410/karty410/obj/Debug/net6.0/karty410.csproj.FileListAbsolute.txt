@@ -1,0 +1,14 @@
+D:\GitHub\praktyki\praktyki\rozdział 8\karty410\karty410\obj\Debug\net6.0\karty410.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\praktyki\praktyki\rozdział 8\karty410\karty410\obj\Debug\net6.0\karty410.AssemblyInfoInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 8\karty410\karty410\obj\Debug\net6.0\karty410.AssemblyInfo.cs
+D:\GitHub\praktyki\praktyki\rozdział 8\karty410\karty410\obj\Debug\net6.0\karty410.csproj.CoreCompileInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 8\karty410\karty410\bin\Debug\net6.0\karty410.exe
+D:\GitHub\praktyki\praktyki\rozdział 8\karty410\karty410\bin\Debug\net6.0\karty410.deps.json
+D:\GitHub\praktyki\praktyki\rozdział 8\karty410\karty410\bin\Debug\net6.0\karty410.runtimeconfig.json
+D:\GitHub\praktyki\praktyki\rozdział 8\karty410\karty410\bin\Debug\net6.0\karty410.dll
+D:\GitHub\praktyki\praktyki\rozdział 8\karty410\karty410\bin\Debug\net6.0\karty410.pdb
+D:\GitHub\praktyki\praktyki\rozdział 8\karty410\karty410\obj\Debug\net6.0\karty410.dll
+D:\GitHub\praktyki\praktyki\rozdział 8\karty410\karty410\obj\Debug\net6.0\refint\karty410.dll
+D:\GitHub\praktyki\praktyki\rozdział 8\karty410\karty410\obj\Debug\net6.0\karty410.pdb
+D:\GitHub\praktyki\praktyki\rozdział 8\karty410\karty410\obj\Debug\net6.0\karty410.genruntimeconfig.cache
+D:\GitHub\praktyki\praktyki\rozdział 8\karty410\karty410\obj\Debug\net6.0\ref\karty410.dll
