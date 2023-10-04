@@ -1,4 +1,4 @@
-	$taskName = $args[0]
+$taskName = $args[0]
 $taskDate = $args[1]
 
 Write-Host "Rozpoczeto zadanie: $taskName o $taskDate"
