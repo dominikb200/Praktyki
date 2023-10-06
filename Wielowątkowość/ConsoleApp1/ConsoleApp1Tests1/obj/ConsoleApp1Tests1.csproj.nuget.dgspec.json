@@ -61,6 +61,10 @@
               "target": "Package",
               "version": "[17.5.0, )"
             },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            },
             "coverlet.collector": {
               "target": "Package",
               "version": "[3.2.0, )"

@@ -4,6 +4,8 @@ using System.Diagnostics;
 using System.Reflection.Emit;
 using System.Threading;
 using System.Xml.Linq;
+using System.Data.SqlClient;
+using MySql.Data.MySqlClient;
 
 namespace ProgramDoTestu
 {
@@ -18,8 +20,9 @@ namespace ProgramDoTestu
             public int ProcessID { get; set; }
         }
 
-        static List<Task> tasks = new List<Task>();
-        static object lockObj = new object();
+        public static List<Task> tasks = new List<Task>();
+        public static object lockObj = new object();
+        
 
         public static void Main(string[] args)
         {
@@ -88,6 +91,7 @@ namespace ProgramDoTestu
             {
                 tasks.Add(newTask);
             }
+           
 
             Console.WriteLine("Zadanie dodane pomyślnie.");
         }
@@ -167,6 +171,13 @@ namespace ProgramDoTestu
                     }
                 }
             }
+        }
+        public void AddToDB(String name, DateTime date, string status, int processID)
+        {
+            string MySQLConnectionString = "datasource=127.0.0.1;port=3306;username=root;password=;database=praktyki";
+
+            MySqlConnection conn = new MySqlConnection(MySQLConnectionString);
+            conn.Open();
         }
 
     }
