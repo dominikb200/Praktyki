@@ -1,0 +1,16 @@
+D:\GitHub\praktyki\praktyki\rozdział 9\karty478\karty478\bin\Debug\net6.0-windows\karty478.exe
+D:\GitHub\praktyki\praktyki\rozdział 9\karty478\karty478\bin\Debug\net6.0-windows\karty478.deps.json
+D:\GitHub\praktyki\praktyki\rozdział 9\karty478\karty478\bin\Debug\net6.0-windows\karty478.runtimeconfig.json
+D:\GitHub\praktyki\praktyki\rozdział 9\karty478\karty478\bin\Debug\net6.0-windows\karty478.dll
+D:\GitHub\praktyki\praktyki\rozdział 9\karty478\karty478\bin\Debug\net6.0-windows\karty478.pdb
+D:\GitHub\praktyki\praktyki\rozdział 9\karty478\karty478\obj\Debug\net6.0-windows\karty478.Form1.resources
+D:\GitHub\praktyki\praktyki\rozdział 9\karty478\karty478\obj\Debug\net6.0-windows\karty478.csproj.GenerateResource.cache
+D:\GitHub\praktyki\praktyki\rozdział 9\karty478\karty478\obj\Debug\net6.0-windows\karty478.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\praktyki\praktyki\rozdział 9\karty478\karty478\obj\Debug\net6.0-windows\karty478.AssemblyInfoInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 9\karty478\karty478\obj\Debug\net6.0-windows\karty478.AssemblyInfo.cs
+D:\GitHub\praktyki\praktyki\rozdział 9\karty478\karty478\obj\Debug\net6.0-windows\karty478.csproj.CoreCompileInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 9\karty478\karty478\obj\Debug\net6.0-windows\karty478.dll
+D:\GitHub\praktyki\praktyki\rozdział 9\karty478\karty478\obj\Debug\net6.0-windows\refint\karty478.dll
+D:\GitHub\praktyki\praktyki\rozdział 9\karty478\karty478\obj\Debug\net6.0-windows\karty478.pdb
+D:\GitHub\praktyki\praktyki\rozdział 9\karty478\karty478\obj\Debug\net6.0-windows\karty478.genruntimeconfig.cache
+D:\GitHub\praktyki\praktyki\rozdział 9\karty478\karty478\obj\Debug\net6.0-windows\ref\karty478.dll

@@ -1,0 +1,16 @@
+D:\GitHub\praktyki\praktyki\rozdział 9\wymówki464\wymówki464\bin\Debug\net6.0-windows\wymówki464.exe
+D:\GitHub\praktyki\praktyki\rozdział 9\wymówki464\wymówki464\bin\Debug\net6.0-windows\wymówki464.deps.json
+D:\GitHub\praktyki\praktyki\rozdział 9\wymówki464\wymówki464\bin\Debug\net6.0-windows\wymówki464.runtimeconfig.json
+D:\GitHub\praktyki\praktyki\rozdział 9\wymówki464\wymówki464\bin\Debug\net6.0-windows\wymówki464.dll
+D:\GitHub\praktyki\praktyki\rozdział 9\wymówki464\wymówki464\bin\Debug\net6.0-windows\wymówki464.pdb
+D:\GitHub\praktyki\praktyki\rozdział 9\wymówki464\wymówki464\obj\Debug\net6.0-windows\wymówki464.Form1.resources
+D:\GitHub\praktyki\praktyki\rozdział 9\wymówki464\wymówki464\obj\Debug\net6.0-windows\wymówki464.csproj.GenerateResource.cache
+D:\GitHub\praktyki\praktyki\rozdział 9\wymówki464\wymówki464\obj\Debug\net6.0-windows\wymówki464.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\praktyki\praktyki\rozdział 9\wymówki464\wymówki464\obj\Debug\net6.0-windows\wymówki464.AssemblyInfoInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 9\wymówki464\wymówki464\obj\Debug\net6.0-windows\wymówki464.AssemblyInfo.cs
+D:\GitHub\praktyki\praktyki\rozdział 9\wymówki464\wymówki464\obj\Debug\net6.0-windows\wymówki464.csproj.CoreCompileInputs.cache
+D:\GitHub\praktyki\praktyki\rozdział 9\wymówki464\wymówki464\obj\Debug\net6.0-windows\wymówki464.dll
+D:\GitHub\praktyki\praktyki\rozdział 9\wymówki464\wymówki464\obj\Debug\net6.0-windows\refint\wymówki464.dll
+D:\GitHub\praktyki\praktyki\rozdział 9\wymówki464\wymówki464\obj\Debug\net6.0-windows\wymówki464.pdb
+D:\GitHub\praktyki\praktyki\rozdział 9\wymówki464\wymówki464\obj\Debug\net6.0-windows\wymówki464.genruntimeconfig.cache
+D:\GitHub\praktyki\praktyki\rozdział 9\wymówki464\wymówki464\obj\Debug\net6.0-windows\ref\wymówki464.dll

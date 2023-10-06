@@ -1,0 +1,17 @@
+D:\GitHub\praktyki\praktyki\Laboratiorum #2\Wyprawa\Wyprawa\obj\Debug\net6.0-windows\Wyprawa.Form1.resources
+D:\GitHub\praktyki\praktyki\Laboratiorum #2\Wyprawa\Wyprawa\obj\Debug\net6.0-windows\Wyprawa.Properties.Resources.resources
+D:\GitHub\praktyki\praktyki\Laboratiorum #2\Wyprawa\Wyprawa\obj\Debug\net6.0-windows\Wyprawa.csproj.GenerateResource.cache
+D:\GitHub\praktyki\praktyki\Laboratiorum #2\Wyprawa\Wyprawa\obj\Debug\net6.0-windows\Wyprawa.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\praktyki\praktyki\Laboratiorum #2\Wyprawa\Wyprawa\obj\Debug\net6.0-windows\Wyprawa.AssemblyInfoInputs.cache
+D:\GitHub\praktyki\praktyki\Laboratiorum #2\Wyprawa\Wyprawa\obj\Debug\net6.0-windows\Wyprawa.AssemblyInfo.cs
+D:\GitHub\praktyki\praktyki\Laboratiorum #2\Wyprawa\Wyprawa\obj\Debug\net6.0-windows\Wyprawa.csproj.CoreCompileInputs.cache
+D:\GitHub\praktyki\praktyki\Laboratiorum #2\Wyprawa\Wyprawa\bin\Debug\net6.0-windows\Wyprawa.exe
+D:\GitHub\praktyki\praktyki\Laboratiorum #2\Wyprawa\Wyprawa\bin\Debug\net6.0-windows\Wyprawa.deps.json
+D:\GitHub\praktyki\praktyki\Laboratiorum #2\Wyprawa\Wyprawa\bin\Debug\net6.0-windows\Wyprawa.runtimeconfig.json
+D:\GitHub\praktyki\praktyki\Laboratiorum #2\Wyprawa\Wyprawa\bin\Debug\net6.0-windows\Wyprawa.dll
+D:\GitHub\praktyki\praktyki\Laboratiorum #2\Wyprawa\Wyprawa\bin\Debug\net6.0-windows\Wyprawa.pdb
+D:\GitHub\praktyki\praktyki\Laboratiorum #2\Wyprawa\Wyprawa\obj\Debug\net6.0-windows\Wyprawa.dll
+D:\GitHub\praktyki\praktyki\Laboratiorum #2\Wyprawa\Wyprawa\obj\Debug\net6.0-windows\refint\Wyprawa.dll
+D:\GitHub\praktyki\praktyki\Laboratiorum #2\Wyprawa\Wyprawa\obj\Debug\net6.0-windows\Wyprawa.pdb
+D:\GitHub\praktyki\praktyki\Laboratiorum #2\Wyprawa\Wyprawa\obj\Debug\net6.0-windows\Wyprawa.genruntimeconfig.cache
+D:\GitHub\praktyki\praktyki\Laboratiorum #2\Wyprawa\Wyprawa\obj\Debug\net6.0-windows\ref\Wyprawa.dll
